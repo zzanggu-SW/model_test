@@ -1,1 +1,2 @@
-from messenger import *
+def main():
+    pass
