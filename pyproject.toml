@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "data-model-test"
+name = "model_test"
 version = "0.1.0"
 description = ""
 authors = ["zzanggu-SW <gyeongmin951@aiofarm.co.kr>"]
